@@ -37,3 +37,6 @@ print("Predicted continuation:", predicted_text)
 # Example usage of text-to-speech
 text = "Hello, how can I assist you today?"
 text_to_speech(text)
+
+This project was inspired by research on transforming speech therapy and communication aids using Natural Language Processing (NLP) techniques.
+
