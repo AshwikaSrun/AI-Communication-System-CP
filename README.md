@@ -38,5 +38,7 @@ print("Predicted continuation:", predicted_text)
 text = "Hello, how can I assist you today?"
 text_to_speech(text)
 
+## Acknowledgements
 This project was inspired by research on transforming speech therapy and communication aids using Natural Language Processing (NLP) techniques.
+
 
